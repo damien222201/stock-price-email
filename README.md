@@ -1,4 +1,5 @@
 # Daily Stock Price Email
+<img width="1920" height="1080" alt="Screenshot from 2026-09-21 19-32-47" src="https://github.com/user-attachments/assets/23d08d88-a228-4f0b-b3ee-2c7d6da5d60a" />
 
 Sends a formatted email every morning with the current price and
 day-over-day change for a watchlist of stocks, using live data from
